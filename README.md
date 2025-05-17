@@ -5,6 +5,10 @@ The LEDs and the motor will turn on if the button is pressed
 
 Speed of the motor is controlled by a LDR
 
+# Contact
+
+Slack: @krunchiekrunch `U0828MFCD99`
+
 # Schematics
 ![](https://raw.githubusercontent.com/RadioactivePotato/orpheus-keychain/refs/heads/main/assets/schem.png)
 
